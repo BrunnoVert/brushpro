@@ -449,7 +449,7 @@ body.mobile-nav-active #mobile-nav-toggle{color:#fff;}
 .video-right .play-btn{z-index:2;}
 @media (max-width:800px){.video-right{margin-top:10px;}
 }
-.top-course-area{background:#f8f8f8;}
+.top-course-area{background:#f0fcff;}
 .course-right .lnr, .course-left .lnr{color:#DE50AA;font-size:30px;}
 .course-right h4, .course-left h4{margin-top:20px;margin-bottom:20px;}
 .single-course{margin-bottom:40px;}
